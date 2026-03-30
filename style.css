@@ -1,0 +1,14 @@
+body{
+    background-color: dimgray;
+    font-family: Arial;
+    text-align: center;
+}
+ul{
+    list-style-position: inside;
+}
+.card{
+    background-color: rgb(255, 255, 255);
+padding: 20px;
+margin: 50px;
+border-radius: 10px;
+}
